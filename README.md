@@ -10,4 +10,11 @@
 
 https://data.mendeley.com/datasets/748f8jkphb/3
 
+-About Dataset
+
+- Indian Medicinal plant datasets is a repository that consists of medicinal plants images. The images are captured with varying background without any environment constraints
+
+- Cite:
+  B R, Pushpa; Rani, Shobha (2023), “Indian Medicinal Leaves Image Datasets”, Mendeley Data, V3, doi: 10.17632/748f8jkphb.3
+
 
