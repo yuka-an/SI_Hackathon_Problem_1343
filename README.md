@@ -1,6 +1,10 @@
 # SI Hackathon
-# Solution for Problem 1343
+
 # Team - Binary Phantoms
+
+# Solution for Problem 1343
+
+- A simple fullstack website with ability to ask for an image of the leaf of a plant as an input to search for image recognition, the website has an api call for a machine learning model trained for image recognition on the dataset mentioned below.
 
 - Problem Screenshot:
 
